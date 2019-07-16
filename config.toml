@@ -1,0 +1,23 @@
+baseURL = "https://koodaacraft.org/"
+languageCode = "en-us"
+title = "KoodaaCraft - A Minecraft Server"
+theme = "story"
+image = "img/logo.jpg"
+
+[[menu.social]]
+  name = "Facebook"
+  title = "fab fa-facebook-square"
+  url = "https://www.facebook.com/KoodaaCraft"
+
+[params]
+  author = "KoodaaCraft Staff"
+  classes = []
+  image = "/img/cover.jpg"
+  thumbnail = "/img/cover.jpg"
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
