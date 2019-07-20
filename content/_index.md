@@ -1,6 +1,6 @@
 ---
 title: KoodaaCraft - A Minecraft Server
-subtitle: "Join us at KoodaaCraft.org (server version: 1.14.3)"
+subtitle: "Join us at KoodaaCraft.org (server version: 1.14.4)"
 author: Allyoutoo
 image: img/cover.jpg
 thumbnail: img/cover.jpg
