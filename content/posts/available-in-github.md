@@ -5,7 +5,7 @@ draft: false
 description: "Hmm"
 image: "img/ranch.png"
 ---
-Koodaacraft blog now available to edit in guthub...
+Koodaacraft blog now available to edit in github...
 <!--more-->
 
 # Let's talk about this site
