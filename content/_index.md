@@ -5,7 +5,7 @@ author: Allyoutoo
 image: img/cover.jpg
 thumbnail: img/cover.jpg
 ---
-[![KoodaaCraft](/img/logo.jpg)](https://koodaacraft.org/)
+[![KoodaaCraft](/img/logo.jpg)](https://blog.koodaacraft.org/)
 
 KoodaaCraft is small community of people built around a Minecraft server.
 We've been running for years with a small community and offer friendly environment to build and play
