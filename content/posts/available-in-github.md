@@ -22,3 +22,7 @@ pushing this site content, sources if you will, to github was not a big hurdle.
 In addition we've now set up github actions to automate deployments. When ever content is pushed to the main branch
 it triggers a build that updated the site with the latest changes. This enables community to contribute by
 either proposing new content or fixing mistakes in old :) 
+
+## So where is it?
+
+You can find the sources and commit patches to https://github.com/Allu2/KoodaaCraft.org
