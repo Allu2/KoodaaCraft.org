@@ -3,50 +3,65 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://koodaacraft.org/</loc>
+    <loc>https://blog.koodaacraft.org/</loc>
+    <lastmod>2021-12-22T11:41:35+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.koodaacraft.org/posts/minecraft-1-18-1/</loc>
+    <lastmod>2021-12-22T11:41:35+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.koodaacraft.org/posts/</loc>
+    <lastmod>2021-12-22T11:41:35+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.koodaacraft.org/posts/dynmap-is-available/</loc>
+    <lastmod>2021-01-04T15:26:41+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.koodaacraft.org/posts/available-in-github/</loc>
+    <lastmod>2021-01-02T20:07:19+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.koodaacraft.org/posts/minecraft-1-6-1-nether-reset/</loc>
     <lastmod>2020-07-05T11:41:35+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://koodaacraft.org/posts/minecraft-1-6-1-nether-reset/</loc>
-    <lastmod>2020-07-05T11:41:35+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://koodaacraft.org/posts/</loc>
-    <lastmod>2020-07-05T11:41:35+03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://koodaacraft.org/posts/minecraft-1-15-1-and-caveworld/</loc>
+    <loc>https://blog.koodaacraft.org/posts/minecraft-1-15-1-and-caveworld/</loc>
     <lastmod>2020-01-06T11:41:35+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://koodaacraft.org/posts/updated-1-14-4/</loc>
+    <loc>https://blog.koodaacraft.org/posts/updated-1-14-4/</loc>
     <lastmod>2019-07-20T11:41:35+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://koodaacraft.org/posts/about-maps/</loc>
+    <loc>https://blog.koodaacraft.org/posts/about-maps/</loc>
     <lastmod>2019-07-12T19:44:44+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://koodaacraft.org/first/</loc>
+    <loc>https://blog.koodaacraft.org/first/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://koodaacraft.org/categories/</loc>
+    <loc>https://blog.koodaacraft.org/categories/</loc>
   </url>
   
   <url>
-    <loc>https://koodaacraft.org/search/</loc>
+    <loc>https://blog.koodaacraft.org/search/</loc>
   </url>
   
   <url>
-    <loc>https://koodaacraft.org/tags/</loc>
+    <loc>https://blog.koodaacraft.org/tags/</loc>
   </url>
   
 </urlset>
