@@ -1,4 +1,4 @@
-baseURL = "https://blog.koodaacraft.org/"
+baseURL = "https://koodaacraft.org/"
 languageCode = "en-us"
 title = "KoodaaCraft - A Minecraft Server"
 theme = "story"
