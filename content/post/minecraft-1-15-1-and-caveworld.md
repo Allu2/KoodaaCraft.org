@@ -4,6 +4,10 @@ date: 2020-01-06T11:41:35+03:00
 draft: false
 description: "Server updated to 1.15.1"
 image: "img/caveworld.png"
+tags:
+    - News
+    - Changelog
+    - Tips
 ---
 Today I’m writing to update on status of the server. We’ve lately upgraded to Minecraft 1.15.1 and introduced quite a few plugins as well as economy, oh and a whole new world on the side…
 <!--more-->

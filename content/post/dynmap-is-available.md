@@ -4,6 +4,9 @@ date: 2021-01-04T15:26:41+02:00
 draft: false
 description: "Dynmap available!"
 image: "img/spawn-dynmap-3d.png"
+tags:
+    - News
+    - Tips
 ---
 Oh yeah didn't mention it before but we have dynmap...
 <!--more-->

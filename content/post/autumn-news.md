@@ -2,8 +2,11 @@
 title: "October News"
 date: 2022-10-10T18:28:49+03:00
 draft: false
-description: "Hmm"
+description: "It's been a while since the web site was updated..."
 image: "img/cover.jpg"
+tags:
+    - News
+    - Changelog
 ---
 
 It's been a while since the web site was updated...

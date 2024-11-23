@@ -2,8 +2,11 @@
 title: "Available in Github"
 date: 2021-01-02T20:07:19+02:00
 draft: false
-description: "Hmm"
+description: "Koodaacraft blog now available to edit in github..."
 image: "img/ranch.png"
+tags:
+    - Tips
+    - Meta
 ---
 Koodaacraft blog now available to edit in github...
 <!--more-->

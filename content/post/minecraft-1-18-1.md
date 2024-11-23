@@ -4,6 +4,9 @@ date: 2021-12-22T11:41:35+03:00
 draft: false
 description: "Server updated to 1.18.1"
 image: "img/spawn_tower.png"
+tags:
+    - News
+    - Changelog
 ---
 We've been updated to `1.18.1` for a few weeks now. This brought with it new depth limits and this time we've opted to...
 <!--more-->

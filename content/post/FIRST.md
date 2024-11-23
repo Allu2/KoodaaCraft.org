@@ -4,6 +4,8 @@ date: "2019-07-12"
 url: "/FIRST"
 description: "Koodaacraft's home page just got an update! :) "
 image: "img/old_site.png"
+tags:
+    - News
 ---
 
 Today marks the day we are burying the old home page and going forward with the new!
