@@ -1,92 +1,82 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KoodaaCraft - A Minecraft Server</title>
-    <link>https://blog.koodaacraft.org/</link>
-    <description>Recent content on KoodaaCraft - A Minecraft Server</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>KoodaaCraft - A Minecraft Server on KoodaaCraft</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in KoodaaCraft - A Minecraft Server on KoodaaCraft</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 22 Dec 2021 11:41:35 +0300</lastBuildDate>
-    
-	<atom:link href="https://blog.koodaacraft.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 10 Oct 2022 18:28:49 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>October News</title>
+      <link>http://localhost:1313/post/autumn-news/</link>
+      <pubDate>Mon, 10 Oct 2022 18:28:49 +0300</pubDate>
+      <guid>http://localhost:1313/post/autumn-news/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s been a while since the web site was updated&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Minecraft 1.18.1</title>
-      <link>https://blog.koodaacraft.org/posts/minecraft-1-18-1/</link>
+      <link>http://localhost:1313/post/minecraft-1-18-1/</link>
       <pubDate>Wed, 22 Dec 2021 11:41:35 +0300</pubDate>
-      
-      <guid>https://blog.koodaacraft.org/posts/minecraft-1-18-1/</guid>
+      <guid>http://localhost:1313/post/minecraft-1-18-1/</guid>
       <description>&lt;p&gt;We&amp;rsquo;ve been updated to &lt;code&gt;1.18.1&lt;/code&gt; for a few weeks now. This brought with it new depth limits and this time we&amp;rsquo;ve opted to&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Dynmap Is Available</title>
-      <link>https://blog.koodaacraft.org/posts/dynmap-is-available/</link>
+      <link>http://localhost:1313/post/dynmap-is-available/</link>
       <pubDate>Mon, 04 Jan 2021 15:26:41 +0200</pubDate>
-      
-      <guid>https://blog.koodaacraft.org/posts/dynmap-is-available/</guid>
+      <guid>http://localhost:1313/post/dynmap-is-available/</guid>
       <description>&lt;p&gt;Oh yeah didn&amp;rsquo;t mention it before but we have dynmap&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Available in Github</title>
-      <link>https://blog.koodaacraft.org/posts/available-in-github/</link>
+      <link>http://localhost:1313/post/available-in-github/</link>
       <pubDate>Sat, 02 Jan 2021 20:07:19 +0200</pubDate>
-      
-      <guid>https://blog.koodaacraft.org/posts/available-in-github/</guid>
+      <guid>http://localhost:1313/post/available-in-github/</guid>
       <description>&lt;p&gt;Koodaacraft blog now available to edit in github&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Minecraft 1.16.1 and Nether Reset</title>
-      <link>https://blog.koodaacraft.org/posts/minecraft-1-6-1-nether-reset/</link>
+      <link>http://localhost:1313/post/minecraft-1-6-1-nether-reset/</link>
       <pubDate>Sun, 05 Jul 2020 11:41:35 +0300</pubDate>
-      
-      <guid>https://blog.koodaacraft.org/posts/minecraft-1-6-1-nether-reset/</guid>
+      <guid>http://localhost:1313/post/minecraft-1-6-1-nether-reset/</guid>
       <description>&lt;p&gt;As some may have noticed we&amp;rsquo;ve been updated to &lt;code&gt;1.16.1&lt;/code&gt; for a few weeks now. This is the much expected nether upgrade and after a quick vote in discord, we decided to&amp;hellip;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Minecraft 1.15.1 and Caveworld</title>
-      <link>https://blog.koodaacraft.org/posts/minecraft-1-15-1-and-caveworld/</link>
+      <link>http://localhost:1313/post/minecraft-1-15-1-and-caveworld/</link>
       <pubDate>Mon, 06 Jan 2020 11:41:35 +0300</pubDate>
-      
-      <guid>https://blog.koodaacraft.org/posts/minecraft-1-15-1-and-caveworld/</guid>
+      <guid>http://localhost:1313/post/minecraft-1-15-1-and-caveworld/</guid>
       <description>&lt;p&gt;Today I’m writing to update on status of the server. We’ve lately upgraded to Minecraft 1.15.1 and introduced quite a few plugins as well as economy, oh and a whole new world on the side…&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Updated to Minecraft 1.14.4</title>
-      <link>https://blog.koodaacraft.org/posts/updated-1-14-4/</link>
+      <link>http://localhost:1313/post/updated-1-14-4/</link>
       <pubDate>Sat, 20 Jul 2019 11:41:35 +0300</pubDate>
-      
-      <guid>https://blog.koodaacraft.org/posts/updated-1-14-4/</guid>
-      <description>&lt;p&gt;Announicing server update for 1.14.4! Well the title says it all but feel free to read further
-where we go through the brief history of how I tend to learn of this updates and what
-follows..&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/updated-1-14-4/</guid>
+      <description>&lt;p&gt;Announicing server update for 1.14.4! Well the title says it all but feel free to read further&#xA;where we go through the brief history of how I tend to learn of this updates and what&#xA;follows..&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>About Maps</title>
-      <link>https://blog.koodaacraft.org/posts/about-maps/</link>
+      <link>http://localhost:1313/post/about-maps/</link>
       <pubDate>Fri, 12 Jul 2019 19:44:44 +0300</pubDate>
-      
-      <guid>https://blog.koodaacraft.org/posts/about-maps/</guid>
-      <description>&lt;p&gt;Maps&amp;hellip; The explorers treasure trove. View to faraway places that tell a story of what can be found.
-Originally I (Allyoutoo) was thinking that maybe we don&amp;rsquo;t need maps.
-Minecraft has a great item of the same name which can be used to paint a picture of what you&amp;rsquo;ve seen on your travels. However I do regonize the requests and use-cases for an Online, pre explored map&lt;/p&gt;</description>
+      <guid>http://localhost:1313/post/about-maps/</guid>
+      <description>&lt;p&gt;Maps&amp;hellip; The explorers treasure trove. View to faraway places that tell a story of what can be found.&#xA;Originally I (Allyoutoo) was thinking that maybe we don&amp;rsquo;t need maps.&#xA;Minecraft has a great item of the same name which can be used to paint a picture of what you&amp;rsquo;ve seen on your travels. However I do regonize the requests and use-cases for an Online, pre explored map&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>KoodaaCraft&#39;s New Homepage</title>
-      <link>https://blog.koodaacraft.org/first/</link>
+      <link>http://localhost:1313/FIRST/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.koodaacraft.org/first/</guid>
-      <description>&lt;p&gt;Today marks the day we are burying the old home page and going forward with the new!&lt;/p&gt;
-&lt;p&gt;Some of you may have noticed that the old home page was kind of.. dead.. and you&amp;rsquo;d be right!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/FIRST/</guid>
+      <description>&lt;p&gt;Today marks the day we are burying the old home page and going forward with the new!&lt;/p&gt;&#xA;&lt;p&gt;Some of you may have noticed that the old home page was kind of.. dead.. and you&amp;rsquo;d be right!&lt;/p&gt;</description>
     </item>
-    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About KoodaaCraft KoodaaCraft is a small community that runs a Minecraft server. We&amp;rsquo;ve been at this for over a decade with changing number of members joining when ever we have time to.&#xA;We mainly hang around in the community discord. As there is a relay from the Minecraft to Discord so even if the server seems empty you may reach out in the chat.&#xA;Note though that we&amp;rsquo;re a small community with various timezones so it may take time before any message is replied to.</description>
+    </item>
   </channel>
 </rss>

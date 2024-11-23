@@ -1,7 +1,8 @@
 baseURL = "https://koodaacraft.org/"
 languageCode = "en-us"
-title = "KoodaaCraft - A Minecraft Server"
-theme = "story"
+title = "KoodaaCraft"
+theme = "hugo-theme-cleanwhite"
+#paginate = 0
 image = "img/logo.jpg"
 
 [[menu.social]]
@@ -12,12 +13,38 @@ image = "img/logo.jpg"
 [params]
   author = "KoodaaCraft Staff"
   classes = []
-  image = "/img/cover.jpg"
+  header_image = "/img/latest_cover.png"
+  SEOTitle = "KoodaaCraft - A Minecraft Server"
+  upstreamAttribution = true
+  slogan = "A Minecraft Server - Now Running: 1.21.1"
+  keyword = "minecraft, small community, server, friendly"
   thumbnail = "/img/cover.jpg"
 
+  # Sidebar settings
+  sidebar_about_description = "A Minecraft server"
+  sidebar_avatar = "img/Hannah.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  about_me = true
+  featured_tags = true 
+  #featured_condition_size = 0
+
+  [params.social]
+   rss = true
+   facebook = "https://www.facebook.com/KoodaaCraft"
+
+  [[params.addtional_menus]]
+  title =  "ABOUT"
+  href =  "/about/"
+
+[markup]
+  [markup.tableOfContents]
+    endLevel = 2
+    startLevel = 1
+  [markup.highlight]
+    style = "dracula"
+
+
 [outputs]
-  home = ["HTML", "JSON", "RSS"]
+  home = ["HTML", "RSS"]
   page = ["HTML"]
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
-  taxonomyTerm = ["HTML", "RSS"]

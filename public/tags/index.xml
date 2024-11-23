@@ -1,14 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on KoodaaCraft - A Minecraft Server</title>
-    <link>https://blog.koodaacraft.org/tags/</link>
-    <description>Recent content in Tags on KoodaaCraft - A Minecraft Server</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tags on KoodaaCraft</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on KoodaaCraft</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
-	<atom:link href="https://blog.koodaacraft.org/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 05 Jul 2020 11:41:35 +0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Changelog</title>
+      <link>http://localhost:1313/tags/changelog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/changelog/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nether</title>
+      <link>http://localhost:1313/tags/nether/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nether/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/tags/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/news/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map</title>
+      <link>http://localhost:1313/tags/map/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/map/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Tips</title>
+      <link>http://localhost:1313/tags/tips/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/tips/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

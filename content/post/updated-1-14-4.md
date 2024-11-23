@@ -4,6 +4,9 @@ date: 2019-07-20T11:41:35+03:00
 draft: false
 description: "Server updated to 1.14.4"
 image: "img/cover.jpg"
+tags:
+    - Changelog
+    - News
 ---
 Announicing server update for 1\.14\.4! Well the title says it all but feel free to read further
 where we go through the brief history of how I tend to learn of this updates and what

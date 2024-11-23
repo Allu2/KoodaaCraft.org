@@ -4,6 +4,9 @@ date: 2020-07-05T11:41:35+03:00
 draft: false
 description: "Server updated to 1.16.1"
 image: "img/1_6_1_nether_and_portal.png"
+tags:
+    - Changelog
+    - Nether
 ---
 As some may have noticed we've been updated to `1.16.1` for a few weeks now. This is the much expected nether upgrade and after a quick vote in discord, we decided to...
 <!--more-->

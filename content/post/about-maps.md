@@ -4,6 +4,9 @@ date: 2019-07-12T19:44:44+03:00
 draft: false
 description: "Great reveal of KoodaaCraft map!"
 image: "img/map.jpg"
+tags:
+    - Tips
+    - Map
 ---
 Maps... The explorers treasure trove. View to faraway places that tell a story of what can be found.
 Originally I (Allyoutoo) was thinking that maybe we don't need maps.
