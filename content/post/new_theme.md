@@ -3,7 +3,7 @@ title:       "New Website Theme"
 subtitle:    ""
 description: "Updating KoodaaCraft home page"
 date:        2024-11-23T23:06:39+02:00
-author:      Allyoutoo
+author: Allyoutoo
 image:       "/img/latest_cover.png"
 tags:        ["News", "changelog"]
 categories:  ["News" ]
