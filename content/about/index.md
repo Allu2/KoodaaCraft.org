@@ -24,7 +24,7 @@ TBD
 
 ### Allyoutoo
 
-Techy server side goblin
+Techy server side goblin.
 
 ![](/img/Allyoutoo.png)
 
