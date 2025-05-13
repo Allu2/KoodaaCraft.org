@@ -16,7 +16,7 @@ image = "img/logo.jpg"
   header_image = "/img/latest_cover.png"
   SEOTitle = "KoodaaCraft - A Minecraft Server"
   upstreamAttribution = true
-  slogan = "A Minecraft Server - Now Running: 1.21.1"
+  slogan = "A Minecraft Server - Now Running: 1.21.5."
   keyword = "minecraft, small community, server, friendly"
   thumbnail = "/img/cover.jpg"
 
